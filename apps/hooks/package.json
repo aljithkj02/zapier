@@ -8,6 +8,9 @@
     "start": "node dist/index.js"
   },
   "keywords": [],
+  "dependencies": {
+    "@repo/db": "*"
+  },
   "author": "",
   "license": "ISC",
   "description": ""
